@@ -1,0 +1,7 @@
+{
+  "name": "bambou",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

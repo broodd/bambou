@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "bambou",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
