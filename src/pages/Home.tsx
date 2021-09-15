@@ -1,26 +1,27 @@
-import MessageListItem from '../components/MessageListItem';
 import { useState } from 'react';
-import { Message, getMessages } from '../data/messages';
 import {
-  IonContent,
-  IonHeader,
-  IonList,
-  IonPage,
-  IonRefresher,
+  useIonViewWillEnter,
   IonRefresherContent,
-  IonTitle,
+  IonRefresher,
+  IonContent,
   IonToolbar,
-  useIonViewWillEnter
+  IonHeader,
+  IonTitle,
+  IonGrid,
+  IonPage,
 } from '@ionic/react';
+
+import { IAlbum, getAlbums } from '../data/album-track';
+import Album from '../components/Album';
+
 import './Home.css';
 
 const Home: React.FC = () => {
-
-  const [messages, setMessages] = useState<Message[]>([]);
+  const [albums, setAlbums] = useState<IAlbum[]>([]);
 
   useIonViewWillEnter(() => {
-    const msgs = getMessages();
-    setMessages(msgs);
+    const albums = getAlbums();
+    setAlbums(albums);
   });
 
   const refresh = (e: CustomEvent) => {
@@ -43,15 +44,15 @@ const Home: React.FC = () => {
 
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">
-              Inbox
-            </IonTitle>
+            <IonTitle size="large">Inbox</IonTitle>
           </IonToolbar>
         </IonHeader>
 
-        <IonList>
-          {messages.map(m => <MessageListItem key={m.id} message={m} />)}
-        </IonList>
+        <IonGrid>
+          {albums.map((album, i) => (
+            <Album album={album} key={i}></Album>
+          ))}
+        </IonGrid>
       </IonContent>
     </IonPage>
   );

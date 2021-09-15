@@ -4,7 +4,7 @@
     "tracks": [
       {
         "name": "In the forest",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/spring-in-the-forest.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/spring-in-the-forest/audios/spring-in-the-forest.mp3",
           "path30Min": "https://musics.petitbambou.com/spring-in-the-forest/audios/spring-in-the-forest_30mn.mp3"
@@ -12,7 +12,7 @@
       },
       {
         "name": "Woodland birds",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/woodland-birds.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/woodland-birds/audios/woodland-birds.mp3",
           "path30Min": "https://musics.petitbambou.com/woodland-birds/audios/woodland-birds_30mn.mp3"
@@ -20,7 +20,7 @@
       },
       {
         "name": "Gushing winds",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/gushing-winds.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/woodland-heavy-wind/audios/woodland-heavy-wind.mp3",
           "path30Min": "https://musics.petitbambou.com/woodland-heavy-wind/audios/woodland-heavy-wind_30mn.mp3"
@@ -28,7 +28,7 @@
       },
       {
         "name": "Wind in big trees",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/wind-in-big-trees.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/wind-in-big-trees/audios/wind-in-big-trees.mp3",
           "path30Min": "https://musics.petitbambou.com/wind-in-big-trees/audios/wind-in-big-trees_30mn.mp3"
@@ -36,7 +36,7 @@
       },
       {
         "name": "Night forest",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/night-forest.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/night-forest/audios/night-forest.mp3",
           "path30Min": "https://musics.petitbambou.com/night-forest/audios/night-forest_30mn.mp3"
@@ -49,7 +49,7 @@
     "tracks": [
       {
         "name": "Cozy fireplace",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/cozy-fireplace.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/home-warm/audios/home-warm.mp3",
           "path30Min": "https://musics.petitbambou.com/home-warm/audios/home-warm_30mn.mp3"
@@ -57,7 +57,7 @@
       },
       {
         "name": "Purring Cat",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/cat-purr.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/cat-purr/audios/cat-purr.mp3",
           "path30Min": "https://musics.petitbambou.com/cat-purr/audios/cat-purr_30mn.mp3"
@@ -65,7 +65,7 @@
       },
       {
         "name": "Lullaby",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/lullaby.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/lullaby/audios/lullaby.mp3",
           "path30Min": "https://musics.petitbambou.com/lullaby/audios/lullaby_30mn.mp3"
@@ -73,7 +73,7 @@
       },
       {
         "name": "Melope",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/melopee.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/meloppe/audios/meloppe.mp3",
           "path30Min": "https://musics.petitbambou.com/meloppe/audios/meloppe_30mn.mp3"
@@ -86,7 +86,7 @@
     "tracks": [
       {
         "name": "Vancouver ocean side",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/ocean-side-vancouver.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/ocean-side-vancouver/audios/ocean-side-vancouver.mp3",
           "path30Min": "https://musics.petitbambou.com/ocean-side-vancouver/audios/ocean-side-vancouver_30mn.mp3"
@@ -94,7 +94,7 @@
       },
       {
         "name": "Thunder and rain",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/rain-and-thunder.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/rain-and-thunder-in-ubud-bali/audios/rain-and-thunder-in-ubud-bali.mp3",
           "path30Min": "https://musics.petitbambou.com/rain-and-thunder-in-ubud-bali/audios/rain-and-thunder-in-ubud-bali_30mn.mp3"
@@ -102,7 +102,7 @@
       },
       {
         "name": "Cold rain",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/rain-cold.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/rain-cold/audios/rain-cold.mp3",
           "path30Min": "https://musics.petitbambou.com/rain-cold/audios/rain-cold_30mn.mp3"
@@ -115,7 +115,7 @@
     "tracks": [
       {
         "name": "Tropical Jungle",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/tropical-jungle.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/jungle-birds-and-insects/audios/jungle-birds-and-insects.mp3",
           "path30Min": "https://musics.petitbambou.com/jungle-birds-and-insects/audios/jungle-birds-and-insects_30mn.mp3"
@@ -123,7 +123,7 @@
       },
       {
         "name": "Lost city",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/lost-city.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/lost-city/audios/lost-city.mp3",
           "path30Min": "https://musics.petitbambou.com/lost-city/audios/lost-city_30mn.mp3"
@@ -131,7 +131,7 @@
       },
       {
         "name": "Onsen",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/onsen.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/onsen/audios/onsen.mp3",
           "path30Min": "https://musics.petitbambou.com/onsen/audios/onsen_30mn.mp3"
@@ -139,7 +139,7 @@
       },
       {
         "name": "Sakura",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/sakura.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/sakura/audios/sakura.mp3",
           "path30Min": "https://musics.petitbambou.com/sakura/audios/sakura_30mn.mp3"
@@ -147,7 +147,7 @@
       },
       {
         "name": "Fullness",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/fullness.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/fullness/audios/fullness.mp3",
           "path30Min": "https://musics.petitbambou.com/fullness/audios/fullness_30mn.mp3"
@@ -155,7 +155,7 @@
       },
       {
         "name": "Train",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/train.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/train/audios/train.mp3",
           "path30Min": "https://musics.petitbambou.com/train/audios/train_30mn.mp3"
@@ -168,7 +168,7 @@
     "tracks": [
       {
         "name": "Blissful night",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/blissful-night.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/blissful-night/audios/blissful-night.mp3",
           "path30Min": "https://musics.petitbambou.com/blissful-night/audios/blissful-night_30mn.mp3"
@@ -176,7 +176,7 @@
       },
       {
         "name": "Lounge",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/lounge.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/lounge/audios/lounge.mp3",
           "path30Min": "https://musics.petitbambou.com/lounge/audios/lounge_30mn.mp3"
@@ -184,7 +184,7 @@
       },
       {
         "name": "Sayonara",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/sayonara.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/sayonara/audios/sayonara.mp3",
           "path30Min": "https://musics.petitbambou.com/sayonara/audios/sayonara_30mn.mp3"
@@ -192,7 +192,7 @@
       },
       {
         "name": "Insight",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/insight.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/insight/audios/insight.mp3",
           "path30Min": "https://musics.petitbambou.com/insight/audios/insight_30mn.mp3"
@@ -200,7 +200,7 @@
       },
       {
         "name": "Train",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/train.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/train/audios/train.mp3",
           "path30Min": "https://musics.petitbambou.com/train/audios/train_30mn.mp3"
@@ -213,7 +213,7 @@
     "tracks": [
       {
         "name": "Twilight",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/twilight.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/twilight/audios/twilight.mp3",
           "path30Min": "https://musics.petitbambou.com/twilight/audios/twilight_30mn.mp3"
@@ -221,7 +221,7 @@
       },
       {
         "name": "Underwater",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/underwater.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/underwater/audios/underwater.mp3",
           "path30Min": "https://musics.petitbambou.com/underwater/audios/underwater_30mn.mp3"
@@ -229,7 +229,7 @@
       },
       {
         "name": "Escape",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/escape.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/escape/audios/escape.mp3",
           "path30Min": "https://musics.petitbambou.com/escape/audios/escape_30mn.mp3"
@@ -237,7 +237,7 @@
       },
       {
         "name": "Constellation",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/constellation.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/constellation/audios/constellation.mp3",
           "path30Min": "https://musics.petitbambou.com/constellation/audios/constellation_30mn.mp3"
@@ -245,7 +245,7 @@
       },
       {
         "name": "Cosmos",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/cosmos.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/cosmos/audios/cosmos.mp3",
           "path30Min": "https://musics.petitbambou.com/cosmos/audios/cosmos_30mn.mp3"
@@ -253,7 +253,7 @@
       },
       {
         "name": "Terra",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/terra.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/terra/audios/terra.mp3",
           "path30Min": "https://musics.petitbambou.com/terra/audios/terra_30mn.mp3"
@@ -261,7 +261,7 @@
       },
       {
         "name": "Liina",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/liina.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/liina/audios/liina.mp3",
           "path30Min": "https://musics.petitbambou.com/liina/audios/liina_30mn.mp3"
@@ -274,7 +274,7 @@
     "tracks": [
       {
         "name": "Sanza",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/sanza.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/sanza/audios/sanza.mp3",
           "path30Min": "https://musics.petitbambou.com/sanza/audios/sanza_30mn.mp3"
@@ -282,7 +282,7 @@
       },
       {
         "name": "Canopee",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/canopee.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/canopee/audios/canopee.mp3",
           "path30Min": "https://musics.petitbambou.com/canopee/audios/canopee_30mn.mp3"
@@ -290,7 +290,7 @@
       },
       {
         "name": "Aurora",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/aurora.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/aurora/audios/aurora.mp3",
           "path30Min": "https://musics.petitbambou.com/aurora/audios/aurora_30mn.mp3"
@@ -303,7 +303,7 @@
     "tracks": [
       {
         "name": "Lounge",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/lounge.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/lounge/audios/lounge.mp3",
           "path30Min": "https://musics.petitbambou.com/lounge/audios/lounge_30mn.mp3"
@@ -311,7 +311,7 @@
       },
       {
         "name": "Sayonara",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/sayonara.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/sayonara/audios/sayonara.mp3",
           "path30Min": "https://musics.petitbambou.com/sayonara/audios/sayonara_30mn.mp3"
@@ -319,7 +319,7 @@
       },
       {
         "name": "Insight",
-        "icon": "https://medias.petitbambou.com/application/music/cover.jpg",
+        "icon": "https://medias.petitbambou.com/application/music/cover/insight.jpg",
         "media": {
           "path": "https://musics.petitbambou.com/insight/audios/insight.mp3",
           "path30Min": "https://musics.petitbambou.com/insight/audios/insight_30mn.mp3"
