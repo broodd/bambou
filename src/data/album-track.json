@@ -5,53 +5,33 @@
     "priority": 5,
     "tracks": [
       {
-        "id": "track_608aa927ba214",
-        "name": "Blissful night",
-        "icon": "https://medias.petitbambou.com/application/music/cover/blissful-night.jpg",
+        "id": "track_6233378e9c402",
+        "name": "Shannan",
+        "icon": "https://medias.petitbambou.com/application/music/cover/shannan.jpg",
         "priority": 1,
         "media": {
-          "path": "https://musics.petitbambou.com/blissful-night/audios/blissful-night.mp3",
-          "path30Min": "https://musics.petitbambou.com/blissful-night/audios/blissful-night_30mn.mp3"
+          "path": "https://musics.petitbambou.com/shannan/audios/shannan.mp3",
+          "path30Min": "https://musics.petitbambou.com/shannan/audios/shannan_30mn.mp3"
         }
       },
       {
-        "id": "track_608aa7cacb0fb",
-        "name": "Lounge",
-        "icon": "https://medias.petitbambou.com/application/music/cover/lounge.jpg",
+        "id": "track_6233369114aae",
+        "name": "Qamdo",
+        "icon": "https://medias.petitbambou.com/application/music/cover/qamdo.jpg",
         "priority": 2,
         "media": {
-          "path": "https://musics.petitbambou.com/lounge/audios/lounge.mp3",
-          "path30Min": "https://musics.petitbambou.com/lounge/audios/lounge_30mn.mp3"
+          "path": "https://musics.petitbambou.com/qamdo/audios/qamdo.mp3",
+          "path30Min": "https://musics.petitbambou.com/qamdo/audios/qamdo_30mn.mp3"
         }
       },
       {
-        "id": "track_608aa5ba14b55",
-        "name": "Sayonara",
-        "icon": "https://medias.petitbambou.com/application/music/cover/sayonara.jpg",
+        "id": "track_624aff7ed3a65",
+        "name": "Lhassa",
+        "icon": "https://medias.petitbambou.com/application/music/cover/lhassa.jpg",
         "priority": 3,
         "media": {
-          "path": "https://musics.petitbambou.com/sayonara/audios/sayonara.mp3",
-          "path30Min": "https://musics.petitbambou.com/sayonara/audios/sayonara_30mn.mp3"
-        }
-      },
-      {
-        "id": "track_608aa6eb0797f",
-        "name": "Insight",
-        "icon": "https://medias.petitbambou.com/application/music/cover/insight.jpg",
-        "priority": 4,
-        "media": {
-          "path": "https://musics.petitbambou.com/insight/audios/insight.mp3",
-          "path30Min": "https://musics.petitbambou.com/insight/audios/insight_30mn.mp3"
-        }
-      },
-      {
-        "id": "track_60bf390cc7fdb",
-        "name": "Train",
-        "icon": "https://medias.petitbambou.com/application/music/cover/train.jpg",
-        "priority": 5,
-        "media": {
-          "path": "https://musics.petitbambou.com/train/audios/train.mp3",
-          "path30Min": "https://musics.petitbambou.com/train/audios/train_30mn.mp3"
+          "path": "https://musics.petitbambou.com/lhassa/audios/lhassa.mp3",
+          "path30Min": "https://musics.petitbambou.com/lhassa/audios/lhassa_30mn.mp3"
         }
       }
     ]
@@ -156,10 +136,20 @@
     "priority": 50,
     "tracks": [
       {
+        "id": "track_608aa927ba214",
+        "name": "Blissful night",
+        "icon": "https://medias.petitbambou.com/application/music/cover/blissful-night.jpg",
+        "priority": 1,
+        "media": {
+          "path": "https://musics.petitbambou.com/blissful-night/audios/blissful-night.mp3",
+          "path30Min": "https://musics.petitbambou.com/blissful-night/audios/blissful-night_30mn.mp3"
+        }
+      },
+      {
         "id": "track_5eaae50eedad4",
         "name": "Lullaby",
         "icon": "https://medias.petitbambou.com/application/music/cover/lullaby.jpg",
-        "priority": 1,
+        "priority": 2,
         "media": {
           "path": "https://musics.petitbambou.com/lullaby/audios/lullaby.mp3",
           "path30Min": "https://musics.petitbambou.com/lullaby/audios/lullaby_30mn.mp3"
@@ -169,7 +159,7 @@
         "id": "track_5d5284f83feb8",
         "name": "Cozy fireplace",
         "icon": "https://medias.petitbambou.com/application/music/cover/cozy-fireplace.jpg",
-        "priority": 2,
+        "priority": 3,
         "media": {
           "path": "https://musics.petitbambou.com/home-warm/audios/home-warm.mp3",
           "path30Min": "https://musics.petitbambou.com/home-warm/audios/home-warm_30mn.mp3"
@@ -179,7 +169,7 @@
         "id": "track_5d64f27c491c8",
         "name": "Purring Cat",
         "icon": "https://medias.petitbambou.com/application/music/cover/cat-purr.jpg",
-        "priority": 3,
+        "priority": 4,
         "media": {
           "path": "https://musics.petitbambou.com/cat-purr/audios/cat-purr.mp3",
           "path30Min": "https://musics.petitbambou.com/cat-purr/audios/cat-purr_30mn.mp3"
@@ -189,7 +179,7 @@
         "id": "track_5ede0b8285b1f",
         "name": "Melope",
         "icon": "https://medias.petitbambou.com/application/music/cover/melopee.jpg",
-        "priority": 4,
+        "priority": 5,
         "media": {
           "path": "https://musics.petitbambou.com/meloppe/audios/meloppe.mp3",
           "path30Min": "https://musics.petitbambou.com/meloppe/audios/meloppe_30mn.mp3"
@@ -260,6 +250,16 @@
         "media": {
           "path": "https://musics.petitbambou.com/train/audios/train.mp3",
           "path30Min": "https://musics.petitbambou.com/train/audios/train_30mn.mp3"
+        }
+      },
+      {
+        "id": "track_61716b0923f60",
+        "name": "Moonlight",
+        "icon": "https://medias.petitbambou.com/application/music/cover/moonlight.jpg",
+        "priority": 7,
+        "media": {
+          "path": "https://musics.petitbambou.com/moonlight/audios/moonlight.mp3",
+          "path30Min": "https://musics.petitbambou.com/moonlight/audios/moonlight_30mn.mp3"
         }
       }
     ]
@@ -337,6 +337,43 @@
         "media": {
           "path": "https://musics.petitbambou.com/terra/audios/terra.mp3",
           "path30Min": "https://musics.petitbambou.com/terra/audios/terra_30mn.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "album_62333b14b67e8",
+    "name": "Tibetans gongs",
+    "priority": 250,
+    "tracks": [
+      {
+        "id": "track_6233369114aae",
+        "name": "Qamdo",
+        "icon": "https://medias.petitbambou.com/application/music/cover/qamdo.jpg",
+        "priority": 1,
+        "media": {
+          "path": "https://musics.petitbambou.com/qamdo/audios/qamdo.mp3",
+          "path30Min": "https://musics.petitbambou.com/qamdo/audios/qamdo_30mn.mp3"
+        }
+      },
+      {
+        "id": "track_6233378e9c402",
+        "name": "Shannan",
+        "icon": "https://medias.petitbambou.com/application/music/cover/shannan.jpg",
+        "priority": 2,
+        "media": {
+          "path": "https://musics.petitbambou.com/shannan/audios/shannan.mp3",
+          "path30Min": "https://musics.petitbambou.com/shannan/audios/shannan_30mn.mp3"
+        }
+      },
+      {
+        "id": "track_624aff7ed3a65",
+        "name": "Lhassa",
+        "icon": "https://medias.petitbambou.com/application/music/cover/lhassa.jpg",
+        "priority": 3,
+        "media": {
+          "path": "https://musics.petitbambou.com/lhassa/audios/lhassa.mp3",
+          "path30Min": "https://musics.petitbambou.com/lhassa/audios/lhassa_30mn.mp3"
         }
       }
     ]
